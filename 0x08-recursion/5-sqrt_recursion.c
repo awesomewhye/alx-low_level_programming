@@ -13,7 +13,7 @@ int _sqrt_recursion(int n)
 }
 
 /**
- * square - a function that returns the natural 
+ * square - a function that returns the natural
  * square root of a number
  * @n: an integer
  * @i: square root
