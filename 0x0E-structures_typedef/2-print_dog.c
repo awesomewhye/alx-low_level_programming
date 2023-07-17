@@ -1,10 +1,9 @@
-#include <stdio.h>
 #include "dog.h"
-
+#include <stdio.h>
 /**
   * print_dog - prints a dog identity
   * @d: a pointer to the dog name,age and owner
-  * 
+  *
   * Return: void
   */
 void print_dog(struct dog *d)
